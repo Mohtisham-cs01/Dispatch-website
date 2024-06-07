@@ -61,7 +61,7 @@ The Wheels That Keep Your Business Moving
       </div>
      
       <div className="footer-bottom">
-        &copy; 2024 Zenith Freight Solutions LLC - All Rights Reserved | Designed by <a href="linktr.ee/muhtasham" target="_blank" rel="noopener noreferrer">Muhammad Muhtahsam</a>
+        &copy; 2024 Zenith Freight Solutions LLC - All Rights Reserved | Designed by <a href="https://linktr.ee/muhtasham" target="_blank" rel="noopener noreferrer">Muhammad Muhtahsam</a>
       </div>
     </footer>
   );
