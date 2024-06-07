@@ -59,13 +59,9 @@ The Wheels That Keep Your Business Moving
           </form>
         </div>
       </div>
+     
       <div className="footer-bottom">
-        &copy; <a href="mailto:mohtisham138@gmail.com">mohtisham138@gmail.com</a> | Designed by <span className="developer" title="Contact Developer">Muhammad Muhtahsam</span>
-        <div className="developer-tooltip">
-          <p>Email: <a href="mailto:mohtisham138@gmail.com" style={{ color: '#FF5733' }}>mohtisham138@gmail.com</a></p>
-          <p>Phone: <a href="tel:123-456-789" style={{ color: '#33FFC7' }}>+92 300 6183249</a></p>
-        </div>
-        <a href="https://github.com/Mohtisham-cs01" target="_blank" rel="noopener noreferrer">( Github )</a>
+        &copy; 2024 Zenith Freight Solutions LLC - All Rights Reserved | Designed by <a href="linktr.ee/muhtasham" target="_blank" rel="noopener noreferrer">Muhammad Muhtahsam</a>
       </div>
     </footer>
   );
